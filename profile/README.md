@@ -15,19 +15,6 @@ We welcome contributions from developers of all skill levels. Here’s how you c
 3. **Join the discussion**: Participate in issues and pull requests to help improve our projects.
 4. **Submit your contributions**: Fork the repository, make your changes, and submit a pull request.
 
-## Community
-Join our community to stay updated and connect with other contributors:
-
-- **Slack**: [Join our Slack channel](https://join.slack.com/ossunited)
-- **Twitter**: [Follow us on Twitter](https://twitter.com/OSSUnited)
-- **Mailing List**: [Subscribe to our mailing list](https://ossunited.org/subscribe)
-
-## Support Us
-Your support helps us maintain and grow our projects. Here are some ways you can support us:
-
-- **Star our repositories**: Show your appreciation by starring our projects on GitHub.
-- **Spread the word**: Share our projects with your network.
-
 ## License
 All our projects are licensed under the [Apache-2.0 License](LICENSE).
 
