@@ -5,12 +5,7 @@
 [![GH Discussions](https://img.shields.io/badge/OSS%20United-Discussions-green)](https://github.com/orgs/ossunited/discussions)
 
 ## About Us
-**OSS United Foundation** is dedicated to promoting and supporting open-source software projects. Our mission is to foster a collaborative environment where developers can contribute to and benefit from open-source technologies.
-
-## Our Mission 🎯
-- Promote open-source development and collaboration.
-- Support and grow a diverse community of contributors.
-- Facilitate knowledge sharing and mentorship.
+**OSS United Foundation** is focused on promoting and supporting open-source software (OSS) development. It aims to bring together developers, contributors, and organizations to collaborate on open-source projects, share knowledge, and foster innovation. OSS United provides resources, tools, and community support to help developers create and maintain high-quality open-source software. The organization also advocates for the adoption of open-source principles and practices in the software industry.
 
 ## How to Join  🤝
 We welcome contributions from developers of all skill levels. Here’s how you can get involved:
@@ -32,7 +27,6 @@ Your support helps us maintain and grow our projects. Here are some ways you can
 
 - **Star our repositories**: Show your appreciation by starring our projects on GitHub.
 - **Spread the word**: Share our projects with your network.
-- **Donate**: [Support us with a donation](https://ossunited.org/donate)
 
 ## License
 All our projects are licensed under the [Apache-2.0 License](LICENSE).
