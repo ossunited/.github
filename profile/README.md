@@ -15,6 +15,11 @@ We welcome contributions from developers of all skill levels. Here’s how you c
 3. **Join the discussion**: Participate in issues and pull requests to help improve our projects.
 4. **Submit your contributions**: Fork the repository, make your changes, and submit a pull request.
 
+## Contact Us 📬
+For any inquiries, please reach out to us at [foundation@ossunited.org](mailto:foundation@ossunited.org).
+
+Join us in building a strong and inclusive open-source community!
+
 ## License
 All our projects are licensed under the [Apache-2.0 License](https://github.com/ossunited/.github/blob/main/LICENSE).
 
