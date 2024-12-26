@@ -16,6 +16,6 @@ We welcome contributions from developers of all skill levels. Here’s how you c
 4. **Submit your contributions**: Fork the repository, make your changes, and submit a pull request.
 
 ## License
-All our projects are licensed under the [Apache-2.0 License](LICENSE).
+All our projects are licensed under the [Apache-2.0 License](https://github.com/ossunited/.github/blob/main/LICENSE).
 
 Thank you for visiting **OSS United Foundation!** Together, we can make a difference in the open-source community.
