@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-CC_BY_4.0-f27596.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![License](https://img.shields.io/badge/License-Apache_2.0-orange.svg)](https://opensource.org/licenses/Apache-2.0)
-[![GH Discussions](https://img.shields.io/badge/OSS%20United-Discussions-green)](https://github.com/orgs/fossuniverse/discussions)
+[![GH Discussions](https://img.shields.io/badge/FOSS%20Universe-Discussions-green)](https://github.com/orgs/fossuniverse/discussions)
 
 ## About Us :information_desk_person:
 The **FOSS Universe Foundation** is a non-profit organization dedicated to promoting, supporting, and advancing the use of Free and Open-Source Software (FOSS) for the betterment of society. Our mission is to foster a vibrant, inclusive, and collaborative community that drives innovation, creativity, and progress through the development and adoption of FOSS.
