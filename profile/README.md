@@ -7,6 +7,13 @@
 ## About Us :information_desk_person:
 The **FOSS Universe Foundation** is a non-profit organization dedicated to promoting, supporting, and advancing the use of Free and Open-Source Software (FOSS) for the betterment of society. Our mission is to foster a vibrant, inclusive, and collaborative community that drives innovation, creativity, and progress through the development and adoption of FOSS.
 
+| Label        | Description           
+| ------------- |-------------|
+| ![Official](https://img.shields.io/badge/project-official-green.svg?colorA=303033&colorB=ff8a2c&label=FOSS%20Universe&style=plastic) |Official projects are officially supported by FOSS Universe. These can be products, plugins, learning materials, books, and more.|
+| ![Community](https://img.shields.io/badge/project-community-green.svg?colorA=303033&colorB=28B8A0&label=FOSS%20Universe&style=plastic) |  Team projects are created by FOSS Universe community members. These projects include 20% projects, internal hackathons, those that support product development process, and/or benefit the FOSS Universe community.|
+| ![Incubator](https://img.shields.io/badge/project-incubator-green.svg?colorA=303033&colorB=c3cf00&label=FOSS%20Universe&style=plastic) | Incubator projects are official projects that are being developed by FOSS Universe. They are considered experimental, not mature enough, or lacking in some manner or release quality such testing and supporting documentation. They are provided as is. |
+| ![Obsolete](https://img.shields.io/badge/project-obsolete-green.svg?colorA=303033&colorB=D1D1D2&label=FOSS%20Universe&style=plastic) | Obsolete projects are those that have been discontinued, superseded, or historical. |
+
 ## Goals :rocket:
 
 1. **Promote FOSS awareness and adoption**: Educate individuals, organizations, and governments about the benefits and value of FOSS, and encourage its adoption in various sectors.
