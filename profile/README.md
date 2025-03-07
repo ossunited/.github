@@ -9,9 +9,9 @@ The **FOSS Universe Foundation** is a non-profit organization dedicated to promo
 
 | Label        | Description           
 | ------------- |-------------|
-| ![Official](https://img.shields.io/badge/project-official-green.svg?colorA=303033&colorB=ff8a2c&label=FOSS%20Universe&style=for-the-badge) |Official projects are officially supported by FOSS Universe. These can be products, plugins, learning materials, books, and more.|
-| ![Community](https://img.shields.io/badge/project-community-green.svg?colorA=303033&colorB=28B8A0&label=FOSS%20Universe&style=for-the-badge) |  Team projects are created by FOSS Universe community members. These projects include 20% projects, internal hackathons, those that support product development process, and/or benefit the FOSS Universe community.|
-| ![Incubator](https://img.shields.io/badge/project-incubator-green.svg?colorA=303033&colorB=c3cf00&label=FOSS%20Universe&style=for-the-badge) | Incubator projects are official projects that are being developed by FOSS Universe. They are considered experimental, not mature enough, or lacking in some manner or release quality such testing and supporting documentation. They are provided as is. |
+| ![Official](https://img.shields.io/badge/project-official-green.svg?colorA=303033&colorB=ff8a2c&label=FOSS%20Universe&style=for-the-badge) |Official projects are officially supported by **FOSS Universe**. These can be products, plugins, learning materials, books, and more.|
+| ![Community](https://img.shields.io/badge/project-community-green.svg?colorA=303033&colorB=28B8A0&label=FOSS%20Universe&style=for-the-badge) |  Team projects are created by **FOSS Universe Foundation** members. These projects include 20% projects, internal hackathons, those that support product development process, and/or benefit the FOSS Universe community.|
+| ![Incubator](https://img.shields.io/badge/project-incubator-green.svg?colorA=303033&colorB=c3cf00&label=FOSS%20Universe&style=for-the-badge) | Incubator projects are official projects that are being developed by **FOSS Universe**. They are considered experimental, not mature enough, or lacking in some manner or release quality such testing and supporting documentation. They are provided as is. |
 | ![Obsolete](https://img.shields.io/badge/project-obsolete-green.svg?colorA=303033&colorB=D1D1D2&label=FOSS%20Universe&style=for-the-badge) | Obsolete projects are those that have been discontinued, superseded, or historical. |
 
 ## Goals :rocket:
