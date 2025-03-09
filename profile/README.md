@@ -2,17 +2,17 @@
 
 [![License](https://img.shields.io/badge/License-CC_BY_4.0-f27596.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![License](https://img.shields.io/badge/License-Apache_2.0-orange.svg)](https://opensource.org/licenses/Apache-2.0)
-[![GH Discussions](https://img.shields.io/badge/FOSS%20Universe-Discussions-green)](https://github.com/orgs/fossuniverse/discussions)
+[![GH Discussions](https://img.shields.io/badge/Freedom%20FOSS-Discussions-green)](https://github.com/orgs/freedomfoss/discussions)
 
 ## About Us :information_desk_person:
-The **FOSS Universe Foundation** is a non-profit organization dedicated to promoting, supporting, and advancing the use of Free and Open-Source Software (FOSS) for the betterment of society. Our mission is to foster a vibrant, inclusive, and collaborative community that drives innovation, creativity, and progress through the development and adoption of FOSS.
+The **Freedom FOSS Foundation** is a non-profit organization dedicated to promoting, supporting, and advancing the use of Free and Open-Source Software (FOSS) for the betterment of society. Our mission is to foster a vibrant, inclusive, and collaborative community that drives innovation, creativity, and progress through the development and adoption of FOSS.
 
 | Label        | Description           
 | ------------- |-------------|
-| ![Official](https://img.shields.io/badge/project-official-green.svg?colorA=303033&colorB=ff8a2c&label=FOSS%20Universe&style=for-the-badge) |Official projects are officially supported by **FOSS Universe**. These can be products, plugins, learning materials, books, and more.|
-| ![Community](https://img.shields.io/badge/project-community-green.svg?colorA=303033&colorB=28B8A0&label=FOSS%20Universe&style=for-the-badge) |  Community projects are created by **FOSS Universe** Community. These projects include 20% projects, internal/external hackathons, meetup's those that support product development process, and/or benefit the FOSS Universe community.|
-| ![Incubator](https://img.shields.io/badge/project-incubator-green.svg?colorA=303033&colorB=c3cf00&label=FOSS%20Universe&style=for-the-badge) | Incubator projects are official projects that are being developed by **FOSS Universe**. They are considered experimental, not mature enough, or lacking in some manner or release quality such testing and supporting documentation. They are provided as is. |
-| ![Obsolete](https://img.shields.io/badge/project-obsolete-green.svg?colorA=303033&colorB=D1D1D2&label=FOSS%20Universe&style=for-the-badge) | Obsolete projects are those that have been discontinued, superseded, or historical. |
+| ![Official](https://img.shields.io/badge/project-official-green.svg?colorA=303033&colorB=ff8a2c&label=Freedom%20FOSS&style=for-the-badge) |Official projects are officially supported by **Freedom FOSS**. These can be products, plugins, learning materials, books, and more.|
+| ![Community](https://img.shields.io/badge/project-community-green.svg?colorA=303033&colorB=28B8A0&label=Freedom%20FOSS&style=for-the-badge) |  Community projects are created by **Freedom FOSS Community**. These projects include 20% projects, internal/external hackathons, meetup's those that support product development process, and/or benefit the Freedom FOSS.|
+| ![Incubator](https://img.shields.io/badge/project-incubator-green.svg?colorA=303033&colorB=c3cf00&label=Freedom%20FOSS&style=for-the-badge) | Incubator projects are official projects that are being developed by **Freedom FOSS**. They are considered experimental, not mature enough, or lacking in some manner or release quality such testing and supporting documentation. They are provided as is. |
+| ![Obsolete](https://img.shields.io/badge/project-obsolete-green.svg?colorA=303033&colorB=D1D1D2&label=Freedom%20FOSS&style=for-the-badge) | Obsolete projects are those that have been discontinued, superseded, or historical. |
 
 ## Goals :rocket:
 
@@ -41,8 +41,8 @@ The **FOSS Universe Foundation** is a non-profit organization dedicated to promo
 
 We welcome contributions from all members of the community. Whether you're an experienced developer or just starting, we have plenty of opportunities for you to get involved. Check out our contribution guidelines and join our community! 🤝
 
-For any inquiries, please reach out to us at [foundation@fossuniverse.org](mailto:foundation@fossuniverse.org).
+For any inquiries, please reach out to us at [foundation@freedomfoss.org](mailto:foundation@fossuniverse.org).
 
 Join us in building a strong and inclusive open-source community!
 
-Thank you for visiting **FOSS Universe Foundation!** Together, we can make a difference in the open-source community 🚀🌟
+Thank you for visiting **Freedom FOSS Foundation!** Together, we can make a difference in the open-source community 🚀🌟
