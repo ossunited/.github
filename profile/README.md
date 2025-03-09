@@ -1,4 +1,4 @@
-# Welcome to FOSS Universe Foundation 👋
+# Welcome to Freedom FOSS Foundation 👋
 
 [![License](https://img.shields.io/badge/License-CC_BY_4.0-f27596.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![License](https://img.shields.io/badge/License-Apache_2.0-orange.svg)](https://opensource.org/licenses/Apache-2.0)
