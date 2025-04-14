@@ -1,6 +1,5 @@
 # Welcome to Freedom FOSS Foundation 👋
 
-![Freedom FOSS Banner](freedomfoss.png) 
 [![License](https://img.shields.io/badge/License-CC_BY_4.0-f27596.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![License](https://img.shields.io/badge/License-Apache_2.0-orange.svg)](https://opensource.org/licenses/Apache-2.0)
 [![GH Discussions](https://img.shields.io/badge/Freedom%20FOSS-Discussions-green)](https://github.com/orgs/freedomfoss/discussions)
