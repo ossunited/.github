@@ -7,7 +7,7 @@
 ## About Us :information_desk_person:
 The **OSS United** is a dedicated to promoting, supporting, and advancing the use of Open-Source Software (OSS) for the betterment of society. Our mission is to foster a vibrant, inclusive, and collaborative community that drives innovation, creativity, and progress through the development and adoption of OSS.
 
-| Label        | Description           
+| Badge        | Description           
 | ------------- |-------------|
 | ![Official](https://img.shields.io/badge/project-official-green.svg?colorA=303033&colorB=ff8a2c&label=OSS%20United&style=for-the-badge) |Official projects are officially supported by **OSS United** in collaboration with **Broadsage**. These can be products, plugins, learning materials, books, and more.|
 | ![Community](https://img.shields.io/badge/project-community-green.svg?colorA=303033&colorB=28B8A0&label=OSS%20United&style=for-the-badge) |  Community projects are created by **OSS United Community**. These projects include 20% projects, internal/external hackathons, meetup's those that support product development process, and/or benefit the OSS United.|
