@@ -41,7 +41,7 @@ The **OSS United** is a dedicated to promoting, supporting, and advancing the us
 
 We welcome contributions from all members of the community. Whether you're an experienced developer or just starting, we have plenty of opportunities for you to get involved. Check out our contribution guidelines and join our community! 🤝
 
-For any inquiries, please reach out to us at [opensource@broadsage.com](mailto:opensource@broadsage.com).
+For any inquiries, please reach out to us at [foundation@ossunited.org](mailto:foundation@ossunited.org).
 
 Join us in building a strong and inclusive open-source community!
 
